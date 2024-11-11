@@ -1,0 +1,10 @@
+{
+    "id": "lm12345",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "radius": 10.0,
+    "location": {
+        "type": "Point",
+        "coordinates": [-122.4194, 37.7749]
+    }
+} 
